@@ -1,0 +1,11 @@
+camunda.bpm:
+  admin-user:
+    id: cgonul
+    password: superSecret
+    first-name: Caglar
+    last-name: Gonul
+    email: cgonul@netas.com.tr
+  filter:
+    create: All tasks
+
+
